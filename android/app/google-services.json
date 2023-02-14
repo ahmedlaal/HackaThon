@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834732083951",
+    "project_id": "hackathon-fcee1",
+    "storage_bucket": "hackathon-fcee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834732083951:android:fd74323fcae26482f6a91a",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834732083951-0i72rfsoqqsiogv3gq50ts0liaigmpg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYoiLHqOGOgnnJxcicSFaJKgOs_pjpAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834732083951-0i72rfsoqqsiogv3gq50ts0liaigmpg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
